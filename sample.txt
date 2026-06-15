@@ -1,1 +1,2 @@
 初めの一行
+Second line from branch
